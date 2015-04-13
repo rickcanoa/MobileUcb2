@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_team_entries">
+        <item>@string/pref_barcelona_entry</item>
+        <item>@string/pref_real_madrid_entry</item>
+        <item>@string/pref_athletic_entry</item>
+    </string-array>
+
+    <string-array name="pref_team_keys">
+        <item>@string/pref_barcelona_key</item>
+        <item>@string/pref_real_madrid_key</item>
+        <item>@string/pref_athletic_key</item>
+    </string-array>
+
+    <string-array name="pref_avisos_entry">
+        <item>@string/eval_continua_entry</item>
+        <item>@string/avisos_ucb_entry</item>
+        <item>@string/grupo_est_entry</item>
+    </string-array>
+    <string-array name="pref_avisos_key">
+        <item>@string/eval_continua_key</item>
+        <item>@string/avisos_ucb_key</item>
+        <item>@string/grupo_est_key</item>
+    </string-array>
+    <string-array name="empty_array"></string-array>
+</resources>

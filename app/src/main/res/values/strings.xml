@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MobileUcb</string>
+    <string name="app_menu">Mi Menú</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="refresh_title">Refrescar</string>
+    <string name="title_activity_details">Detalle</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="pref_barcelona_entry">Barcelona F.C.</string>
+    <string name="pref_real_madrid_entry">C.F Real Madrid</string>
+    <string name="pref_athletic_entry">Atlético de Madrid</string>
+    <string name="pref_barcelona_key" translatable="false">81</string>
+    <string name="pref_real_madrid_key" translatable="false">86</string>
+    <string name="pref_athletic_key" translatable="false">78</string>
+    <string name="pref_team_title" translatable="false">Team</string>
+    <string name="pref_team_key" translatable="false">team</string>
+    <string name="pref_days_title">Days Before</string>
+    <string name="pref_days_key" translatable="false">days</string>
+    <string name="pref_days_default" translatable="false">30</string>
+
+    <string name="eval_continua_entry">Evaluación Contínua</string>
+    <string name="avisos_ucb_entry">Avisos UCB</string>
+    <string name="grupo_est_entry">Grupo Estudiantes</string>
+    <string name="eval_continua_key">eval_cont</string>
+    <string name="avisos_ucb_key">aviso_ucb</string>
+    <string name="grupo_est_key">grupo_est</string>
+
+    <string name="title_tipo">Tipo</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="title_detalle">Detalle</string>
+
+    <string name="navigation_drawer_abrir">Abrir Navegacion</string>
+    <string name="navigation_drawer_cerrar">Cerrar Navegacion</string>
+    <string name="action_example"></string>
+
+</resources>

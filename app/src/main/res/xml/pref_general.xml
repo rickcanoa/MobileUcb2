@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:summary="Lista de Avisos"
+    android:title="Tipo de Avisos">
+
+    <PreferenceCategory android:title="Seleccione Notificaciones">
+        <MultiSelectListPreference
+            android:dialogTitle="Seleccion Tipo Notif."
+            android:entries="@array/pref_avisos_entry"
+            android:entryValues="@array/pref_avisos_key"
+            android:key="multi_choice_prefs"
+            android:summary="Tipo de Notificación"
+            android:defaultValue="@array/empty_array"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>
